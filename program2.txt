@@ -1,0 +1,5 @@
+
+public static void print()
+{
+system.out.println("*******hello*******");
+}
